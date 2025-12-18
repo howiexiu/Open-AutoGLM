@@ -11,6 +11,8 @@ APP_PACKAGES: dict[str, str] = {
     "拼多多": "com.xunmeng.pinduoduo",
     "淘宝闪购": "com.taobao.taobao",
     "京东秒送": "com.jingdong.app.mall",
+    "京粉": "com.jd.jxj",
+    "淘宝联盟": "com.alimama.moon",
     # Lifestyle & Social
     "小红书": "com.xingin.xhs",
     "豆瓣": "com.douban.frodo",
